@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmDef0h+nZdMxTC/UQq35oJN+wJSysd7iHRjuLSR4ktg4PafMJgiPunJFW7b5Q0eOLunFP88JOE7GsBv/E1rEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Altamir\\Projects\\Pessoal\\webSocket\\websocketserver\\websocketserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Altamir\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

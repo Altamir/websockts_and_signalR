@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RR1/fXh9EH63Gy9ibqizaw5WdB96jD37/cZCn0FVYDZmHA4Ar60bRWneiroSC6v7/dAHEMTKXBGrGtqyBW14Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Altamir\\Projects\\Pessoal\\webSocket\\SignalRServer\\SignalRServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Altamir\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
